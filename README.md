@@ -1,5 +1,9 @@
 == README
 
+#RoR 1st app tutorial
+
+This is the 1st application for the Ruby on Rails class.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
